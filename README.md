@@ -16,7 +16,7 @@
 
 - Laravel(PHP) - Backend
 - Angular(Typescript) - Frontend
-- Tailwind(Css) - CSS Framework
+- Tailwind(CSS) - CSS Framework
 
 ## To-do
 
